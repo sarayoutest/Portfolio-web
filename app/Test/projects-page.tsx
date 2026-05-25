@@ -98,7 +98,7 @@ export default function ProjectsPage() {
         id: "9",
         description:
           "A complete web application combining a booking system and an e-commerce marketplace for paragliding services and equipment. Built with a scalable backend API to handle reservations, product management, and secure transactions, ensuring high performance and modular architecture.",
-        image: "/project9.webp",
+        image: "/project10.webp",
         role: "Frontend Developer",
         demoLink: "https://dreamhrms.com/sky-master/",
         sourceLink: "https://sky-master-ten.vercel.app/",
