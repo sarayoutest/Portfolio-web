@@ -62,7 +62,7 @@ const projectsData: ProjectDetail[] = [
     date: "sep 2025",
     duration: "3 weeks",
     description:
-      "E-commerce clothing store built with React.js, featuring product browsing, shopping cart functionality, and a modern responsive UI. ",
+      "E-commerce clothing store built with React.js, featuring product browsing, shopping cart functionality, and a modern responisve UI. ",
     longDescription:
       "Developed a lightweight, responsive demo web application using React and Vite to showcase an intuitive ordering flow. The project highlights clean UI design, fast loading performance, and smooth user interaction — making it suitable for product previews, portfolio presentation, and client demonstrations.",
     challenge:
