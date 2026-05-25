@@ -262,7 +262,7 @@ const projectsData: ProjectDetail[] = [
     challenge:
       "Some UI components were not structured properly, leading to usability issues and unclear navigation",
     solution:
-      "Implemented a fully responsive grid system and improved component structure for mobile, tablet, and desktop",
+      "Implemented a fully responisve grid system and improved component structure for mobile, tablet, and desktop",
     outcome:
       "Improved UI consistency, accessibility, and loading performance.Delivered a clean, responsive, and user-friendly admin dashboard",
     mainImage: "/project9.webp",
@@ -291,7 +291,7 @@ const projectsData: ProjectDetail[] = [
         id: "5",
         title: "Food Website",
         description:
-          "Developed a responsive Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
+          "Developed a responisve Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
         image: "/project5.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/food-delivery/",
@@ -302,7 +302,7 @@ const projectsData: ProjectDetail[] = [
         id: "6",
         title: "online-shopping-book",
         description:
-          "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
+          "Developed a responisve online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
         image: "/project6.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/online-shopping-book/",
@@ -321,7 +321,7 @@ const projectsData: ProjectDetail[] = [
     description:
       "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responisve design using modern web technologies.",
     longDescription:
-      "Built a responsive, lifestyle-themed landing page focusing on structural layouts and typography. Features robust real-world API integration for live content management, backed by efficient data fetching and error handling using modern web practices.",
+      "Built a responisve, lifestyle-themed landing page focusing on structural layouts and typography. Features robust real-world API integration for live content management, backed by efficient data fetching and error handling using modern web practices.",
     challenge:
       "The client needed a custom task management solution that would integrate with their existing workflow and tools. They required features not available in off-the-shelf solutions, including custom reporting, specific permission levels, and integration with their proprietary systems.",
     solution:
@@ -372,7 +372,7 @@ const projectsData: ProjectDetail[] = [
         id: "6",
         title: "online-shopping-book",
         description:
-          "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
+          "Developed a responisve online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
         image: "/project6.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/online-shopping-book/",
@@ -390,7 +390,7 @@ const projectsData: ProjectDetail[] = [
     date: " 2026",
     duration: "2 weeks",
     description:
-      "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience",
+      "Developed a responisve online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience",
     longDescription:
       "A health-focused web app built for online doctor consultations and appointment management. The site features an intuitive interface for users to book appointments, read doctor profiles, and manage their medical sessions. eTrolley is a platform officially validated by the Qatari Ministry of Communications.",
     challenge:
@@ -424,7 +424,7 @@ const projectsData: ProjectDetail[] = [
         id: "5",
         title: "Food Website",
         description:
-          "Developed a responsive Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
+          "Developed a responisve Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
         image: "/project5.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/food-delivery/",
@@ -452,15 +452,15 @@ const projectsData: ProjectDetail[] = [
     date: "March 2023",
     duration: "2 weeks",
     description:
-      "Developed a responsive Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
+      "Developed a responisve Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
     longDescription:
       "A sleek and modern site for air travel services, featuring booking options, travel destination highlights, and flight schedules. Built with Next.js for performance and SEO.",
     challenge:
       "The website layout needed improvements in responsiveness across different screen sizes",
     solution:
-      "Improved responsive design using flexible grids and media queries for mobile, tablet, and desktop.",
+      "Improved responisve design using flexible grids and media queries for mobile, tablet, and desktop.",
     outcome:
-      "Delivered a fully responsive and user-friendly food delivery website.",
+      "Delivered a fully responisve and user-friendly food delivery website.",
     mainImage: "/project5.webp",
     images: [
       { src: "/project5.webp", alt: "Homepage" },
@@ -499,7 +499,7 @@ const projectsData: ProjectDetail[] = [
         id: "6",
         title: "online-shopping-book",
         description:
-          "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
+          "Developed a responisve online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
         image: "/project6.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/online-shopping-book/",
@@ -516,7 +516,7 @@ const projectsData: ProjectDetail[] = [
     date: "April 2023",
     duration: "1.5 weeks",
     description:
-      "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience",
+      "Developed a responisve online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience",
     longDescription:
       "A health-focused web app built for online doctor consultations and appointment management. The site features an intuitive interface for users to book appointments, read doctor profiles, and manage their medical sessions. Built using Next.js and Tailwind CSS for responsiveness and performance.",
     challenge:
@@ -550,7 +550,7 @@ const projectsData: ProjectDetail[] = [
         id: "5",
         title: "Food Website",
         description:
-          "Developed a responsive Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
+          "Developed a responisve Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
         image: "/project5.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/food-delivery/",
@@ -631,7 +631,7 @@ const projectsData: ProjectDetail[] = [
         id: "6",
         title: "online-shopping-book",
         description:
-          "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
+          "Developed a responisve online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
         image: "/project6.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/online-shopping-book/",
