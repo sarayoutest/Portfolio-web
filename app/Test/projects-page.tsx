@@ -49,6 +49,17 @@ export default function ProjectsPage() {
       sourceLink: "https://github.com/sarayoutest/Admin-Dashboard.git",
       technologies: ["React js", ", Material UI", "Firebase"],
     },
+         {
+      title: "sky-master",
+        id: "9",
+        description:
+          "A complete web application combining a booking system and an e-commerce marketplace for paragliding services and equipment. Built with a scalable backend API to handle reservations, product management, and secure transactions, ensuring high performance and modular architecture.",
+        image: "/project10.webp",
+        role: "Frontend Developer",
+        demoLink: "https://sky-master-ten.vercel.app/",
+        sourceLink: "https://dreamhrms.com/sky-master/",
+        technologies: ["React JS", "Java Script", "Tailwindcss"],
+    },
     {
         title: "Food Website",
         id: "5",
@@ -93,17 +104,7 @@ export default function ProjectsPage() {
         sourceLink: "https://github.com/sarayoutest/E-Trolley.git",
         technologies: ["Html", "Java Script", "css"],
     },
-     {
-      title: "sky-master",
-        id: "9",
-        description:
-          "A complete web application combining a booking system and an e-commerce marketplace for paragliding services and equipment. Built with a scalable backend API to handle reservations, product management, and secure transactions, ensuring high performance and modular architecture.",
-        image: "/project10.webp",
-        role: "Frontend Developer",
-        demoLink: "https://dreamhrms.com/sky-master/",
-        sourceLink: "https://sky-master-ten.vercel.app/",
-        technologies: ["React JS", "Java Script", "Tailwindcss"],
-    },
+
   ];
 
   return (
