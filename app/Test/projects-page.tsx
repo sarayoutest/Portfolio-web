@@ -82,6 +82,28 @@ export default function ProjectsPage() {
         sourceLink: "https://katra-life.netlify.app/",
         technologies: ["Html", "Java Script", "Firebase"],
     },
+    {
+      title: "E-Trolley",
+        id: "8",
+        description:
+          "eTrolley is a platform officially validated by the Qatari Ministry of Communications.",
+        image: "/project8.webp",
+        role: "Frontend Developer",
+        demoLink: "https://sarayoutest.github.io/E-Trolley/index.html#",
+        sourceLink: "https://github.com/sarayoutest/E-Trolley.git",
+        technologies: ["Html", "Java Script", "css"],
+    },
+     {
+      title: "sky-master",
+        id: "9",
+        description:
+          "A complete web application combining a booking system and an e-commerce marketplace for paragliding services and equipment. Built with a scalable backend API to handle reservations, product management, and secure transactions, ensuring high performance and modular architecture.",
+        image: "/project9.webp",
+        role: "Frontend Developer",
+        demoLink: "https://dreamhrms.com/sky-master/",
+        sourceLink: "https://sky-master-ten.vercel.app/",
+        technologies: ["React JS", "Java Script", "Tailwindcss"],
+    },
   ];
 
   return (
