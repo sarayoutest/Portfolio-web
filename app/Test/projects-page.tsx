@@ -39,6 +39,17 @@ export default function ProjectsPage() {
         technologies: ["React", "vite", "javaScript"],
     },
     {
+      title: "sky-master",
+      id: "9",
+      description:
+        "A complete web application combining a booking system and an e-commerce marketplace for paragliding services and equipment. Built with a scalable backend API to handle reservations, product management, and secure transactions, ensuring high performance and modular architecture.",
+      image: "/project10.webp",
+      role: "Frontend Developer",
+      demoLink: "https://dreamhrms.com/sky-master/", // الرابط الفعلي للموقع المستضيف
+      sourceLink: "https://github.com/sarayoutest/sky-master.git", // يُفضل وضع رابط الـ GitHub الخاص بالمشروع هنا إن وجد
+      technologies: ["React.js", "JavaScript", "Tailwind CSS"],
+    },
+    {
       title: "Admin-Dashboard (React)",
       id: "4",
       description:
@@ -70,6 +81,17 @@ export default function ProjectsPage() {
         demoLink: "https://sarayoutest.github.io/online-shopping-book/",
         sourceLink: "https://github.com/sarayoutest/online-shopping-book.git",
         technologies: ["Java Script",  "Bootstrap"],
+    },
+    {
+      title: "E-Trolley",
+      id: "8",
+      description:
+        "eTrolley is a platform officially validated by the Qatari Ministry of Communications.",
+      image: "/project8.webp",
+      role: "Frontend Developer",
+      demoLink: "https://sarayoutest.github.io/E-Trolley/index.html#",
+      sourceLink: "https://github.com/sarayoutest/E-Trolley.git",
+      technologies: ["HTML", "JavaScript", "CSS"],
     },
     {
       title: "Katra Life",
