@@ -316,7 +316,7 @@ const projectsData: ProjectDetail[] = [
     title: "sky-master",
     role: "Frontend Developer",
     client: "ProductiveCo",
-    date: "June 2026",
+    date: " 2026",
     duration: "1 month",
     description:
       "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
@@ -328,13 +328,13 @@ const projectsData: ProjectDetail[] = [
       "I developed a full-stack application using React for the frontend and Node.js with MongoDB for the backend. The application implements a real-time notification system using WebSockets, a drag-and-drop interface for task management, and a comprehensive API for integration with other tools. The design focuses on usability with an intuitive interface that requires minimal training for new users.",
     outcome:
       "After implementation, the client reported a 30% increase in team productivity and a significant reduction in missed deadlines. The application is now used daily by over 50 team members and has become an essential part of their workflow. The client has requested additional features and modules to expand the system's capabilities.",
-    mainImage: "/project9.webp",
+    mainImage: "/project10.webp",
     images: [
-      { src: "/project9.webp", alt: "Dashboard view" },
-      { src: "/project9.webp", alt: "Task board" },
-      { src: "/project9.webp", alt: "Task detail modal" },
-      { src: "/project9.webp", alt: "Calendar view" },
-      { src: "/project9.webp", alt: "Reports and analytics" },
+      { src: "/project10.webp", alt: "Dashboard view" },
+      { src: "/project10.webp", alt: "Task board" },
+      { src: "/project10.webp", alt: "Task detail modal" },
+      { src: "/project10.webp", alt: "Calendar view" },
+      { src: "/project10.webp", alt: "Reports and analytics" },
     ],
     demoLink: "https://sky-master-ten.vercel.app/",
     sourceLink: "https://dreamhrms.com/sky-master/",
