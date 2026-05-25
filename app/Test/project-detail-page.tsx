@@ -152,7 +152,7 @@ const projectsData: ProjectDetail[] = [
         id: "1",
         title: "App-Forever(E-Commerce site)",
         description:
-          "E-commerce clothing store built with React.js, featuring product browsing, shopping cart functionality, and a modren responsive UI. ",
+          "E-commerce clothing store built with React.js, featuring product browsing, shopping cart functionality, and a modren responisve UI. ",
         image: "/project2.webp",
         role: "Frontend Developer",
         demoLink: "https://sarayoutest.github.io/App-Forever/",
@@ -238,7 +238,7 @@ const projectsData: ProjectDetail[] = [
         title: "Katra Life",
         id: "7",
         description:
-          "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+          "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responisve design using modern web technologies.",
         image: "/project7.webp",
         role: "Frontend Developer",
         demoLink: "https://katra-life.netlify.app/",
@@ -319,7 +319,7 @@ const projectsData: ProjectDetail[] = [
     date: " 2026",
     duration: "1 month",
     description:
-      "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+      "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responisve design using modern web technologies.",
     longDescription:
       "Built a responsive, lifestyle-themed landing page focusing on structural layouts and typography. Features robust real-world API integration for live content management, backed by efficient data fetching and error handling using modern web practices.",
     challenge:
@@ -435,7 +435,7 @@ const projectsData: ProjectDetail[] = [
         id: "7",
         title: "Katra Life",
         description:
-          "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+          "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responisve design using modern web technologies.",
         image: "/project7.webp",
         role: "Frontend Developer",
         demoLink: "https://katra-life.netlify.app/",
@@ -561,7 +561,7 @@ const projectsData: ProjectDetail[] = [
         id: "7",
         title: "Katra Life",
         description:
-          "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+          "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responisve design using modern web technologies.",
         image: "/project7.webp",
         role: "Frontend Developer",
         demoLink: "https://katra-life.netlify.app/",
@@ -578,9 +578,9 @@ const projectsData: ProjectDetail[] = [
     date: "June 2023",
     duration: "1 week",
     description:
-      "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+      "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responisve design using modern web technologies.",
     longDescription:
-      "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+      "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responisve design using modern web technologies.",
     challenge:
       "The client needed a custom task management solution that would integrate with their existing workflow and tools. They required features not available in off-the-shelf solutions, including custom reporting, specific permission levels, and integration with their proprietary systems.",
     solution:
