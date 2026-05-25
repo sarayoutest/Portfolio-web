@@ -247,6 +247,7 @@ const projectsData: ProjectDetail[] = [
       },
     ],
   },
+  
   {
     id: "4",
     title: "Admin-Dashboard (React)",
@@ -307,6 +308,139 @@ const projectsData: ProjectDetail[] = [
         demoLink: "https://sarayoutest.github.io/online-shopping-book/",
         sourceLink: "https://github.com/sarayoutest/online-shopping-book.git",
         technologies: ["Java Script",  "Bootstrap"],
+      },
+    ],
+  },
+    {
+    id: "9",
+    title: "sky-master",
+    role: "Frontend Developer",
+    client: "ProductiveCo",
+    date: "June 2026",
+    duration: "1 month",
+    description:
+      "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+    longDescription:
+      "Built a responsive, lifestyle-themed landing page focusing on structural layouts and typography. Features robust real-world API integration for live content management, backed by efficient data fetching and error handling using modern web practices.",
+    challenge:
+      "The client needed a custom task management solution that would integrate with their existing workflow and tools. They required features not available in off-the-shelf solutions, including custom reporting, specific permission levels, and integration with their proprietary systems.",
+    solution:
+      "I developed a full-stack application using React for the frontend and Node.js with MongoDB for the backend. The application implements a real-time notification system using WebSockets, a drag-and-drop interface for task management, and a comprehensive API for integration with other tools. The design focuses on usability with an intuitive interface that requires minimal training for new users.",
+    outcome:
+      "After implementation, the client reported a 30% increase in team productivity and a significant reduction in missed deadlines. The application is now used daily by over 50 team members and has become an essential part of their workflow. The client has requested additional features and modules to expand the system's capabilities.",
+    mainImage: "/project9.webp",
+    images: [
+      { src: "/project9.webp", alt: "Dashboard view" },
+      { src: "/project9.webp", alt: "Task board" },
+      { src: "/project9.webp", alt: "Task detail modal" },
+      { src: "/project9.webp", alt: "Calendar view" },
+      { src: "/project9.webp", alt: "Reports and analytics" },
+    ],
+    demoLink: "https://sky-master-ten.vercel.app/",
+    sourceLink: "https://dreamhrms.com/sky-master/",
+    technologies: ["React JS", "Java Script", "Tailwind CSS"],
+    team: [
+      "Frontend Developer",
+      "UI/UX Designer",
+      "Project Manager",
+      "Backend Developer",
+    ],
+    relatedProjects: [
+      {
+        id: "2",
+        title: "MovieZone Website",
+      description:
+        " sleek movie information platform where users can explore movie details such as title, rating, genres, release year, and audience count. It fetches real-time data via a public API and offers an interactive UI for film enthusiasts.. ",
+      image: "/project1.webp",
+      role: "Frontend Developer",
+      demoLink: "https://movie-zone-two-rho.vercel.app/",
+      sourceLink: "https://github.com/sarayoutest/MovieZone.git",
+      technologies: ["Next.js", "TypeScript", "React JS"],
+      },
+      {
+        id: "3",
+        title: "S.Store (E-Commerce)",
+        description:
+          "A simple e-commerce front-end where users can browse products, add items to the cart, and simulate a shopping experience. Ideal for testing UI flows and showcasing basic store functionalities without backend integration.",
+        image: "/project3.webp",
+        role: "Frontend Developer",
+        demoLink: "https://s-store-git-main-sara-youssefs-projects.vercel.app/",
+        sourceLink: "https://github.com/sarayoutest/S.Store.git",
+        technologies: ["React", "Tailwind CSS", "javaScript"],
+      },
+      {
+        id: "6",
+        title: "online-shopping-book",
+        description:
+          "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience. ",
+        image: "/project6.webp",
+        role: "Frontend Developer",
+        demoLink: "https://sarayoutest.github.io/online-shopping-book/",
+        sourceLink: "https://github.com/sarayoutest/online-shopping-book.git",
+        technologies: ["Java Script",  "Bootstrap"],
+      },
+    ],
+  },
+
+    {
+    id: "8",
+    title: "E-Trolley",
+    role: "Frontend Developer",
+    client: "Personal Project",
+    date: " 2026",
+    duration: "2 weeks",
+    description:
+      "Developed a responsive online bookstore interface using HTML, CSS, and JavaScript. Implemented product listing, category filtering, and a modern shopping UI experience",
+    longDescription:
+      "A health-focused web app built for online doctor consultations and appointment management. The site features an intuitive interface for users to book appointments, read doctor profiles, and manage their medical sessions. eTrolley is a platform officially validated by the Qatari Ministry of Communications.",
+    challenge:
+      "The authentication pages  were not fully functional and lacked form validation.",
+    solution:
+      "Implemented client-side form validation and improved the structure of authentication forms",
+    outcome:
+      "Delivered a cleaner, more accessible, and better-optimized e-commerce frontend demo",
+    mainImage: "/project8.webp",
+    images: [
+      { src: "/project8.webp", alt: "Homepage" },
+      { src: "/project8.webp", alt: "Doctor listing" },
+      { src: "/project8.webp", alt: "Appointment booking" },
+    ],
+    demoLink: "https://sarayoutest.github.io/E-Trolley/index.html#",
+    sourceLink: "https://github.com/sarayoutest/E-Trolley.git",
+    technologies: ["Java Script", "Bootstrap", "Html"],
+    relatedProjects: [
+      {
+        id: "3",
+        title: "S.Store (E-Commerce)",
+        description:
+          "A simple e-commerce front-end where users can browse products, add items to the cart, and simulate a shopping experience. Ideal for testing UI flows and showcasing basic store functionalities without backend integration.",
+        image: "/project3.webp",
+        role: "Frontend Developer",
+        demoLink: "https://s-store-git-main-sara-youssefs-projects.vercel.app/",
+        sourceLink: "https://github.com/sarayoutest/S.Store.git",
+        technologies: ["React", "vite", "javaScript"],
+      },
+      {
+        id: "5",
+        title: "Food Website",
+        description:
+          "Developed a responsive Food-Delivery web application featuring a clean UI, allowing users to browse meals and add items to their cart seamlessly. Built using HTML, CSS, and JavaScript with a focus on smooth user interaction and modern design. ",
+        image: "/project5.webp",
+        role: "Frontend Developer",
+        demoLink: "https://sarayoutest.github.io/food-delivery/",
+        sourceLink: "https://github.com/sarayoutest/food-delivery.git",
+        technologies: ["Java Script", "React.js", "vite"],
+      },
+      {
+        id: "7",
+        title: "Katra Life",
+        description:
+          "Built a lifestyle-themed landing page with clean, user-centered design. Focused on layout structure, typography, and responsive design using modern web technologies.",
+        image: "/project7.webp",
+        role: "Frontend Developer",
+        demoLink: "https://katra-life.netlify.app/",
+        sourceLink: "https://katra-life.netlify.app/",
+        technologies: ["Html", "Java Script", "Firebase"],
       },
     ],
   },
